@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "duan.jwt",
+      "type": "com.duan.util.JwtUtils",
+      "sourceType": "com.duan.util.JwtUtils"
+    }
+  ],
+  "properties": [
+    {
+      "name": "duan.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.duan.util.JwtUtils"
+    },
+    {
+      "name": "duan.jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.duan.util.JwtUtils"
+    },
+    {
+      "name": "duan.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.duan.util.JwtUtils"
+    }
+  ],
+  "hints": []
+}
